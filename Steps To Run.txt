@@ -1,0 +1,12 @@
+----------- Installing Dependencies -----------
+
+1. First Navigate to backend folder, and in terminal execute the command "npm install" to install all the dependencies. 
+2. Then Navigate to frontend folder, and in terminal execute the command "npm install" to install all the dependencies. 
+
+----------- Running The Project -----------
+
+1. Open 2 Terminals, One for backend server and one for frontend.
+2. In 1st Terminal, Navigate to backend folder, and in terminal execute the command "node index.js" to run the backend server. 
+3. Then Navigate to frontend folder, and in terminal execute the command "npm start" to start the frontend.
+4. Frontend Automatically Opens up in Web Browser and you can access the project. 
+ 
